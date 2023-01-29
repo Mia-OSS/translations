@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Per-app volume control -->
+    <string name="app_volume">应用音量</string>
+    <string name="app_volume_title">分应用音量控制</string>
+    <string name="app_volume_summary">允许为每个应用设置不同的音量</string>
+
+    <!-- Screen off fingerprint -->
+    <string name="ambient_display_screen_off_udfps_title">长按指纹传感器解锁设备</string>
+    <string name="ambient_display_screen_off_udfps_summary">长按屏下传感器以唤醒屏幕并解锁</string>
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">滑动截屏</string>
+    <string name="swipe_to_screenshot_gesture_summary">向下滑动三指以截屏</string>
+
+    <!-- Status bar settings -->
+    <string name="status_bar_title">状态栏</string>
+    <string name="status_bar_settings_title">状态栏设置</string>
+    <string name="status_bar_settings_summary">定制状态栏</string>
+
+    <!-- Network traffic -->
+    <string name="network_traffic_title">网速指示器</string>
+    <string name="network_traffic_summary">启用或禁用网速指示器</string>
+    <string name="network_traffic_state_title">使用网速指示器</string>
+    <string name="network_options_title">选项</string>
+    <string name="network_traffic_autohide_title">在不活跃时隐藏网速指示器</string>
+    <string name="network_traffic_autohide_summary">当网速低于 1KB/s 时隐藏</string>
+
+    <!-- Mia version -->
+    <string name="mia_version">Mia 版本</string>
+
+    <!-- SystemUI tuner -->
+    <string name="status_bar_icons_desc">调整状态栏图标的可见性</string>
+    <string name="status_bar_icons_title">状态栏图标调节</string>
+
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">启用高级重启</string>
+    <string name="global_actions_advanced_reboot_summary">在电源菜单中显示重启选项</string>
+
+    <!-- Clock position -->
+    <string name="status_bar_clock_position_center">居中</string>
+    <string name="status_bar_clock_position_left">左侧</string>
+    <string name="status_bar_clock_position_right">右侧</string>
+    <string name="status_bar_clock_position_title">时钟位置</string>
+
+    <!-- Clock AM/PM -->
+    <string name="status_bar_am_pm_hidden">隐藏</string>
+    <string name="status_bar_am_pm_normal">默认</string>
+    <string name="status_bar_am_pm_small">较小</string>
+    <string name="status_bar_am_pm_title">时钟上午/下午样式</string>
+    <string name="status_bar_am_pm_unavailable">24 小时制时钟已启用</string>
+
+    <!-- Clock show seconds -->
+    <string name="status_bar_clock_show_seconds_title">时钟显示秒数</string>
+    <string name="status_bar_clock_show_seconds_desc">显示小时、分钟和秒</string>
+
+    <!-- QS quick pulldown -->
+    <string name="status_bar_quick_qs_pulldown_title">快速下拉</string>
+    <string name="status_bar_quick_qs_pulldown_off">关闭</string>
+    <string name="status_bar_quick_qs_pulldown_left">左侧</string>
+    <string name="status_bar_quick_qs_pulldown_right">右侧</string>
+
+    <!-- Wi-Fi Standard icon -->
+    <string name="show_wifi_standard_icon_title">显示 Wi-Fi 标准图标</string>
+    <string name="show_wifi_standard_icon_summary">在 Wi-Fi 信号指示器中显示 Wi-Fi 类型</string>
+
+</resources>
