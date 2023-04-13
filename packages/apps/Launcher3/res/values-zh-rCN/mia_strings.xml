@@ -17,4 +17,34 @@
 
     <string name="shortcut_uninstall_title">卸载</string>
 
+    <!-- Suggestions -->
+    <string name="suggestion_pref_screen_title">建议</string>
+    <string name="suggestion_pref_screen_desc">适用于所有应用和主屏幕建议</string>
+
+    <!-- Memory info -->
+    <string name="meminfo_text">%1$s 可用 | %2$s 总共</string>
+
+    <!-- Home settings -->
+    <string name="launcher_icon">图标</string>
+    <string name="launcher_misc">杂项</string>
+    <string name="launcher_developer">开发者</string>
+    <string name="launcher_google">Google</string>
+
+    <!-- Settings title to show Google Now at -1 screen on launcher. [CHAR LIMIT=50] -->
+    <string name="title_show_google_app">显示 Google 应用程序</string>
+
+    <!-- Settings message explaining when the -1 screen is available on an LTR device. [CHAR LIMIT=100] -->
+    <string name="msg_minus_one_on_left">当您从主屏幕向左滑动时</string>
+
+    <!-- Settings message explaining when the -1 screen is available on an RTL device. [CHAR LIMIT=100] -->
+    <string name="msg_minus_one_on_right">当您从主屏幕向右滑动时</string>
+    <string name="pref_show_google_now_summary" translatable="false">@string/msg_minus_one_on_left</string>
+
+    <!-- Gestures -->
+    <string name="pref_dt_gesture_title">双击休眠</string>
+    <string name="pref_dt_gesture_summary">双击空白处关闭屏幕</string>
+
+    <!-- Show top shadow -->
+    <string name="show_top_shadow">显示顶部阴影</string>
+
 </resources>
