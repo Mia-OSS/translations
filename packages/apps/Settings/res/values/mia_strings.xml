@@ -101,4 +101,17 @@
     <string name="laboratory_google_photos_unlimited_title">Google Photos unlimited backup</string>
     <string name="laboratory_google_photos_unlimited_summary">This could provide you with same unlimited backup feature that Pixel 1 had. But you need to take the risk of violating terms of service. After changing this toggle, you have to restart Google Photos for the change to take effect.</string>
 
+    <!-- About device -->
+    <string name="mia_soc_info_title">Processor</string>
+    <string name="mia_soc_manufacture_mediatek">Mediatek</string>
+    <string name="mia_soc_manufacture_qcom">Qualcomm</string>
+    <string name="mia_soc_manufacture_google">Google</string>
+    <string name="mia_soc_manufacture_unknow">N/A</string>
+    <string name="mia_soc_model_mtk_helio">Helio %s</string>
+    <string name="mia_soc_model_mtk_dimensity">Dimensity %s</string>
+    <string name="mia_soc_model_qcom_snapdragon">Snapdragon %s</string>
+    <string name="mia_soc_model_google_tensor">Tensor %s</string>
+    <string name="mia_ram_info_title">RAM</string>
+    <string name="mia_storage_info_title">Storage</string>
+
 </resources>
