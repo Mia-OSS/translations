@@ -101,4 +101,9 @@
     <string name="laboratory_google_photos_unlimited_title">Google 相册无限量存储空间</string>
     <string name="laboratory_google_photos_unlimited_summary">该功能允许您在 Google 相册中使用与 Google Pixel 系列相同的无限量存储空间，但您可能会需要为此承担违反 Google 帐号条款的风险。开关此功能后，需要重新打开 Google 相册以使改动生效。</string>
 
+    <!-- About device -->
+    <string name="mia_soc_info_title">处理器</string>
+    <string name="mia_ram_info_title">运行内存</string>
+    <string name="mia_storage_info_title">存储空间</string>
+
 </resources>
