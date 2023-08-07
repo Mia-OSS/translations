@@ -106,4 +106,11 @@
     <string name="mia_ram_info_title">运行内存</string>
     <string name="mia_storage_info_title">存储空间</string>
 
+    <!-- Parallel space -->
+    <string name="parallel_space_title">平行空间</string>
+    <string name="parallel_space_summary">允许同时运行同一应用程序的多个实例</string>
+
+    <!-- Testing - Only *#*#4636#*#* doesn't work to enable -->
+    <string name="testing_summary">获取电话、Wi-Fi、使用数据信息</string>
+
 </resources>
