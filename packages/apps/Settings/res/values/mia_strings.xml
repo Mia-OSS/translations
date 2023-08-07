@@ -114,4 +114,11 @@
     <string name="mia_ram_info_title">RAM</string>
     <string name="mia_storage_info_title">Storage</string>
 
+    <!-- Parallel space -->
+    <string name="parallel_space_title">Parallel space</string>
+    <string name="parallel_space_summary">Allow running multiple instances of the same application in parallel.</string>
+
+    <!-- Testing - Only *#*#4636#*#* doesn't work to enable -->
+    <string name="testing_summary">Get phone, Wi-Fi, usage information</string>
+
 </resources>
