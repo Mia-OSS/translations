@@ -113,4 +113,26 @@
     <!-- Testing - Only *#*#4636#*#* doesn't work to enable -->
     <string name="testing_summary">获取电话、Wi-Fi、使用数据信息</string>
 
+    <!-- Hotspot -->
+    <string name="wifi_hotspot_hidden_ssid_title">隐藏的网络</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">当前设备的热点名将不会出现在可用 WLAN 的列表中</string>
+    <plurals name="wifi_hotspot_auto_off_timeout">
+        <item quantity="other">在无设备连接 <xliff:g id="DURATION">%1$d</xliff:g> 分钟后关闭</item>
+    </plurals>
+    <string name="wifi_hotspot_auto_off_timeout_never">永不关闭热点</string>
+    <string name="wifi_hotspot_client_manager_title">已连接的设备</string>
+    <string name="wifi_hotspot_client_manager_summary">显示和管理已连接的设备和最大连接数量上限</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">显示已连接的设备</string>
+    <string name="wifi_hotspot_client_limit_title">连接的设备数量上限</string>
+    <plurals name="wifi_hotspot_client_limit_summary">
+        <item quantity="other">最多 <xliff:g id="device_num">%1$d</xliff:g> 台设备可以连接到该热点</item>
+    </plurals>
+    <string name="wifi_hotspot_blocked_clients_list_title">设备黑名单</string>
+    <string name="wifi_hotspot_connected_clients_list_title">已连接的设备</string>
+    <string name="wifi_hotspot_block_client_dialog_title">加入黑名单</string>
+    <string name="wifi_hotspot_block_client_dialog_text">该操作将会中断 \"<xliff:g id="device_name">%1$s</xliff:g>\" 的连接并将其加入到黑名单中</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">移出黑名单</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">\"<xliff:g id="device_name">%1$s</xliff:g>\" 将被允许连接到该热点</string>
+    <string name="wifi_hotspot_client_manager_footer_text">当前没有连接的设备。当有设备连接时，此处将会展示已连接设备和设备黑名单。</string>
+
 </resources>
