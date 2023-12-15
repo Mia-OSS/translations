@@ -135,4 +135,24 @@
     <string name="wifi_hotspot_unblock_client_dialog_text">\"<xliff:g id="device_name">%1$s</xliff:g>\" 将被允许连接到该热点</string>
     <string name="wifi_hotspot_client_manager_footer_text">当前没有连接的设备。当有设备连接时，此处将会展示已连接设备和设备黑名单。</string>
 
+    <!-- High touch sensitivity -->
+    <string name="high_touch_sensitivity_title">高触摸灵敏度</string>
+    <string name="high_touch_sensitivity_summary">提高触摸灵敏度，以便在戴手套时使用</string>
+
+    <!-- Touchscreen hovering -->
+    <string name="touchscreen_hovering_title">悬空操作</string>
+    <string name="touchscreen_hovering_summary">允许您将手指悬停在屏幕上作为浏览器、远程桌面等处的鼠标指针</string>
+
+    <!-- High touch polling rate -->
+    <string name="high_touch_polling_rate_title">高触控采样率</string>
+    <string name="high_touch_polling_rate_summary">提高屏幕的触控采样率</string>
+
+    <!-- Statusbar lyric -->
+    <string name="status_bar_lyric_title">状态栏歌词</string>
+    <string name="status_bar_lyric_summary">在状态栏显示歌词（需要应用程序支持）</string>
+    <string name="status_bar_show_lyric_title">使用状态栏歌词</string>
+    <string name="status_bar_lyric_options_title">选项</string>
+    <string name="disguise_props_for_music_app_title">对音乐应用伪装设备</string>
+    <string name="disguise_props_for_music_app_summary">在一些音乐应用中伪装设备以支持状态栏歌词。更改此开关后，您必须重新启动相关应用才能使更改生效。</string>
+
 </resources>
