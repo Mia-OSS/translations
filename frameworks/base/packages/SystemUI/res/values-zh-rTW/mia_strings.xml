@@ -12,6 +12,9 @@
     <!-- Name of the network activity status bar icon. -->
     <string name="status_bar_network_activity">網路活動</string>
 
+    <!-- Name of the WiFi standard numbering icon -->
+    <string name="status_bar_wifi_standard">Wi-Fi 標準</string>
+
     <!-- Name of the clock in status bar [CHAR LIMIT=30] -->
     <string name="clock">時鐘</string>
 

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 Mia Institute
+
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- About device -->
+    <string name="mia_build_number">版本號碼</string>
+    <string name="mia_device_status">狀態</string>
+    <string name="mia_soc_info_title">處理器</string>
+    <string name="mia_ram_info_title">記憶體</string>
+    <string name="mia_storage_info_title">儲存空間</string>
+
+    <!-- Mika settings -->
+    <string name="mika_dashboard_title">Mika</string>
+    <string name="mika_dashboard_summary">自訂系統設定</string>
+
+    <!-- Statusbar settings -->
+    <string name="status_bar_settings_title">狀態欄設定</string>
+    <string name="status_bar_settings_summary">自訂狀態欄</string>
+
+    <!-- SystemUI tuner -->
+    <string name="status_bar_icons_desc">調整狀態欄圖示的可見性</string>
+    <string name="status_bar_icons_title">狀態欄圖示調節</string>
+
+    <!-- Clock position -->
+    <string name="status_bar_clock_position_center">居中</string>
+    <string name="status_bar_clock_position_left">左側</string>
+    <string name="status_bar_clock_position_right">右側</string>
+    <string name="status_bar_clock_position_title">時鐘位置</string>
+
+    <!-- Clock AM/PM -->
+    <string name="status_bar_am_pm_hidden">隱藏</string>
+    <string name="status_bar_am_pm_normal">預設</string>
+    <string name="status_bar_am_pm_small">較小</string>
+    <string name="status_bar_am_pm_title">時鐘上午/下午樣式</string>
+    <string name="status_bar_am_pm_unavailable">24 小時制時鐘已啟用</string>
+
+    <!-- Clock show seconds -->
+    <string name="status_bar_clock_show_seconds_title">時鐘顯示秒數</string>
+    <string name="status_bar_clock_show_seconds_desc">顯示小時、分鐘和秒</string>
+
+    <!-- Network traffic -->
+    <string name="network_traffic_title">網速指示器</string>
+    <string name="network_traffic_summary">啟用或停用網速指示器</string>
+    <string name="network_traffic_state_title">使用網速指示器</string>
+    <string name="network_options_title">選項</string>
+    <string name="network_traffic_autohide_title">在不活躍時隱藏網速指示器</string>
+    <string name="network_traffic_autohide_summary">當網速低於 1KB/s 時隱藏</string>
+
+    <!-- Statusbar lyric -->
+    <string name="status_bar_lyric_title">狀態欄歌詞</string>
+    <string name="status_bar_lyric_summary">在狀態欄顯示歌詞（需要應用程式支援）</string>
+    <string name="status_bar_show_lyric_title">使用狀態欄歌詞</string>
+    <string name="status_bar_lyric_options_title">選項</string>
+    <string name="disguise_props_for_music_app_title">對音樂程式偽裝設備</string>
+    <string name="disguise_props_for_music_app_summary">在一些音樂程式中偽裝設備以支援狀態欄歌詞。更改此開關後，您必須重新啟動相關程式才能使更改生效。</string>
+
+    <!-- Misc settings -->
+    <string name="misc_settings_title">雜項設定</string>
+    <string name="misc_settings_summary">雜項自訂</string>
+
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">啟用進階重新開機</string>
+    <string name="global_actions_advanced_reboot_summary">在電源選單中顯示進階重新開機選項</string>
+
+    <!-- Laboratory -->
+    <string name="laboratory_settings_title">實驗室</string>
+    <string name="laboratory_settings_summary">實驗性特性</string>
+    <string name="laboratory_settings_footer">這些功能是實驗性的，可能不穩定或存在安全風險，甚至導致系統崩潰和資料損壞。啟用這些功能即代表您已了解潛在風險。</string>
+    <string name="laboratory_settings_warning_title">警告</string>
+    <string name="laboratory_settings_warning_message">您正在嘗試開啟實驗性功能。這些功能可能不穩定或存在安全風險，甚至導致系統崩潰和數據損壞。繼續即意味著您同意自擔因使用這些功能而產生的一切後果。</string>
+
+    <!-- Laboratory - Skiavk -->
+    <string name="laboratory_skiavk_title">使用 Vulkan (Skia) 進行 HWUI 渲染</string>
+    <string name="laboratory_skiavk_summary">它或許會提供更佳的性能，但對舊應用程式的相容性較差。</string>
+
+    <!-- Laboratory - Ignore window secure -->
+    <string name="laboratory_ignore_window_secure_title">忽略 FLAG_SECURE 窗口標誌</string>
+    <string name="laboratory_ignore_window_secure_summary">該功能將去除所有應用程式的 FLAG_SECURE 窗口標誌，但在某些情況下可能會導致您的敏感數據洩露。應用程式通常會使用該標誌來禁止您對窗口進行螢幕錄製或截圖操作。開關此功能後，需要重新打開相應的應用程式以使改動生效。</string>
+
+    <!-- Laboratory - Application downgrade -->
+    <string name="laboratory_app_downgrade_title">允許降級應用程式</string>
+    <string name="laboratory_app_downgrade_summary">該功能允許您對應用程式進行降級安裝，但可能導致應用程式崩潰或資料損壞。</string>
+
+    <!-- Laboratory - Google Photos unlimited backup -->
+    <string name="laboratory_google_photos_unlimited_title">Google Photos 無限量儲存空間</string>
+    <string name="laboratory_google_photos_unlimited_summary">該功能允許您在 Google 相簿中使用與 Google Pixel 系列相同的無限量儲存空間，但您可能會需要為此承擔違反 Google 帳號條款的風險。開關此功能後，需要重新打開 Google 相簿以使改動生效。</string>
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">滑動截圖</string>
+    <string name="swipe_to_screenshot_gesture_summary">向下滑動三指以截圖</string>
+
+</resources>
