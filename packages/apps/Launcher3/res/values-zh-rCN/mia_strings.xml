@@ -27,7 +27,6 @@
     <!-- Home settings -->
     <string name="launcher_icon">图标</string>
     <string name="launcher_misc">杂项</string>
-    <string name="launcher_developer">开发者</string>
     <string name="launcher_google">Google</string>
 
     <!-- Settings title to show Google Now at -1 screen on launcher. [CHAR LIMIT=50] -->

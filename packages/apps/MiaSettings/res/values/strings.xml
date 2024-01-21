@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 Mia Institute
+
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- About device -->
+    <string name="mia_build_number">Build number</string>
+    <string name="mia_build_version">Build version</string>
+    <string name="mia_device_status">Status</string>
+    <string name="mia_soc_info_title">Processor</string>
+    <string name="mia_soc_manufacture_mediatek">Mediatek</string>
+    <string name="mia_soc_manufacture_qcom">Qualcomm</string>
+    <string name="mia_soc_manufacture_google">Google</string>
+    <string name="mia_soc_manufacture_unknow">N/A</string>
+    <string name="mia_soc_model_mtk_helio">Helio %s</string>
+    <string name="mia_soc_model_mtk_dimensity">Dimensity %s</string>
+    <string name="mia_soc_model_qcom_snapdragon">Snapdragon %s</string>
+    <string name="mia_soc_model_google_tensor">Tensor %s</string>
+    <string name="mia_ram_info_title">RAM</string>
+    <string name="mia_storage_info_title">Storage</string>
+
+    <!-- Mika settings -->
+    <string name="mika_dashboard_title">Mika</string>
+    <string name="mika_dashboard_summary">Customized System Settings</string>
+
+    <!-- Statusbar settings -->
+    <string name="status_bar_settings_title">Status bar settings</string>
+    <string name="status_bar_settings_summary">Customize the status bar</string>
+
+    <!-- SystemUI tuner -->
+    <string name="status_bar_icons_desc">Customize the visibility of statusbar icons</string>
+    <string name="status_bar_icons_title">Statusbar icon tuner</string>
+
+    <!-- Clock position -->
+    <string name="status_bar_clock_position_center">Center</string>
+    <string name="status_bar_clock_position_left">Left</string>
+    <string name="status_bar_clock_position_right">Right</string>
+    <string name="status_bar_clock_position_title">Clock position</string>
+
+    <!-- Clock AM/PM -->
+    <string name="status_bar_am_pm_hidden">Hidden</string>
+    <string name="status_bar_am_pm_normal">Normal</string>
+    <string name="status_bar_am_pm_small">Small</string>
+    <string name="status_bar_am_pm_title">Clock AM/PM style</string>
+    <string name="status_bar_am_pm_unavailable">24-hour clock is enabled</string>
+
+    <!-- Clock show seconds -->
+    <string name="status_bar_clock_show_seconds_title">Clock show seconds</string>
+    <string name="status_bar_clock_show_seconds_desc">Show hours, minutes, and seconds</string>
+
+    <!-- Network traffic -->
+    <string name="network_traffic_title">Network traffic</string>
+    <string name="network_traffic_summary">Enable or disable network traffic</string>
+    <string name="network_traffic_state_title">Enable network traffic</string>
+    <string name="network_options_title">Options</string>
+    <string name="network_traffic_autohide_title">Hide network traffic is inactive</string>
+    <string name="network_traffic_autohide_summary">Hide when network traffic is below 1KB/s</string>
+
+    <!-- Statusbar lyric -->
+    <string name="status_bar_lyric_title">Status bar lyric</string>
+    <string name="status_bar_lyric_summary">Show lyric in status bar (need app support)</string>
+    <string name="status_bar_show_lyric_title">Enable status bar lyric</string>
+    <string name="status_bar_lyric_options_title">Options</string>
+    <string name="disguise_props_for_music_app_title">Disguise device for music apps</string>
+    <string name="disguise_props_for_music_app_summary">Disguise device in some music applications for support status bar lyric. After changing this toggle, you have to restart applications for the change to take effect.</string>
+
+    <!-- Misc settings -->
+    <string name="misc_settings_title">Misc settings</string>
+    <string name="misc_settings_summary">Misc customize</string>
+
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Enable advanced restart</string>
+    <string name="global_actions_advanced_reboot_summary">Show restart options in power menu</string>
+
+    <!-- Laboratory -->
+    <string name="laboratory_settings_title">Laboratory</string>
+    <string name="laboratory_settings_summary">Experimental features</string>
+    <string name="laboratory_settings_footer">These features are experimental. They can be unstable, have security issues or even lead to crashes and data corruption. Use them at your own risks.</string>
+    <string name="laboratory_settings_warning_title">Warning</string>
+    <string name="laboratory_settings_warning_message">These features are experimental. They can be unstable, have security issues or even lead to crashes and data corruption. Continuing means that you agreed that the Mia Institute is not responsible for all consequences arising from this.</string>
+
+    <!-- Laboratory - Skiavk -->
+    <string name="laboratory_skiavk_title">Use skia vulkan for hwui rendering</string>
+    <string name="laboratory_skiavk_summary">This may offer better performance but worse compatibility especially with outdated applications.</string>
+
+    <!-- Laboratory - Ignore window secure -->
+    <string name="laboratory_ignore_window_secure_title">Ignore window secure flags</string>
+    <string name="laboratory_ignore_window_secure_summary">This removes the screenshots and screenrecords limits for all applications. Normally, special applications are replaced with black areas in records. This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect.</string>
+
+    <!-- Laboratory - Application downgrade -->
+    <string name="laboratory_app_downgrade_title">Allow application downgrade</string>
+    <string name="laboratory_app_downgrade_summary">This allows you to downgrade applications. Note that this may lead to crashes and data corruption.</string>
+
+    <!-- Laboratory - Google Photos unlimited backup -->
+    <string name="laboratory_google_photos_unlimited_title">Google Photos unlimited backup</string>
+    <string name="laboratory_google_photos_unlimited_summary">This could provide you with same unlimited backup feature that Pixel 1 had. But you need to take the risk of violating terms of service. After changing this toggle, you have to restart Google Photos for the change to take effect.</string>
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="swipe_to_screenshot_gesture_title">Swipe to screenshot</string>
+    <string name="swipe_to_screenshot_gesture_summary">Swipe three fingers to take screenshot</string>
+
+</resources>
