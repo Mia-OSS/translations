@@ -24,11 +24,6 @@
     <!-- Memory info -->
     <string name="meminfo_text">%1$s Available | %2$s Total</string>
 
-    <!-- Home settings -->
-    <string name="launcher_icon">Icons</string>
-    <string name="launcher_misc">Misc</string>
-    <string name="launcher_google">Google</string>
-
     <!-- Settings title to show Google Now at -1 screen on launcher. [CHAR LIMIT=50] -->
     <string name="title_show_google_app">Show Google App</string>
 
@@ -44,6 +39,7 @@
     <string name="pref_dt_gesture_summary">Double tap on empty space to turn screen off</string>
 
     <!-- Show top shadow -->
-    <string name="show_top_shadow">Show top shadow</string>
+    <string name="show_top_shadow_title">Show top shadow</string>
+    <string name="show_top_shadow_summary">Show shadow on top of wallpaper</string>
 
 </resources>
