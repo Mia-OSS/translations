@@ -24,11 +24,6 @@
     <!-- Memory info -->
     <string name="meminfo_text">%1$s 可用 | %2$s 总共</string>
 
-    <!-- Home settings -->
-    <string name="launcher_icon">图标</string>
-    <string name="launcher_misc">杂项</string>
-    <string name="launcher_google">Google</string>
-
     <!-- Settings title to show Google Now at -1 screen on launcher. [CHAR LIMIT=50] -->
     <string name="title_show_google_app">显示 Google 应用程序</string>
 
@@ -44,6 +39,7 @@
     <string name="pref_dt_gesture_summary">双击空白处关闭屏幕</string>
 
     <!-- Show top shadow -->
-    <string name="show_top_shadow">显示顶部阴影</string>
+    <string name="show_top_shadow_title">显示顶部阴影</string>
+    <string name="show_top_shadow_summary">在壁纸顶部显示阴影</string>
 
 </resources>
