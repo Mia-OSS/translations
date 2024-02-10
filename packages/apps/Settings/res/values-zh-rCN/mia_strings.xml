@@ -11,4 +11,8 @@
     <string name="app_volume_title">分应用音量控制</string>
     <string name="app_volume_summary">允许为每个应用设置不同的音量</string>
 
+    <!-- Navigation bar hint -->
+    <string name="hide_navbar_gesture_bar_title">隐藏手势导航条</string>
+    <string name="hide_navbar_gesture_bar_summary">隐藏位于屏幕底部的手势导航条</string>
+
 </resources>
