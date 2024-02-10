@@ -111,4 +111,14 @@
     <string name="high_touch_polling_rate_title">高觸控採樣率</string>
     <string name="high_touch_polling_rate_summary">提高螢幕的觸控採樣率</string>
 
+    <!-- Battery style and percentage -->
+    <string name="status_bar_battery_style_circle">環形</string>
+    <string name="status_bar_battery_style_icon_portrait">直立</string>
+    <string name="status_bar_battery_style_text">文字</string>
+    <string name="status_bar_battery_style_title">電池狀態樣式</string>
+    <string name="status_bar_battery_percentage_hidden">隱藏</string>
+    <string name="status_bar_battery_percentage_text_inside">在圖示內</string>
+    <string name="status_bar_battery_percentage_text_next">在圖示旁</string>
+    <string name="status_bar_battery_percentage_title">電量百分比</string>
+
 </resources>

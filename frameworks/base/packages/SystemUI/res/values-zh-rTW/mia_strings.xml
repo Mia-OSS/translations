@@ -33,4 +33,15 @@
     <!-- Content description indicating that tapping the element will allow deleting the screenshot [CHAR LIMIT=NONE] -->
     <string name="screenshot_delete_description">刪除截圖</string>
 
+    <!-- Caffeine QS tile -->
+    <string name="quick_settings_caffeine_label">保持螢幕顯示</string>
+    <string name="accessibility_quick_settings_caffeine_off">保持螢幕顯示功能關閉</string>
+    <string name="accessibility_quick_settings_caffeine_on">保持螢幕顯示功能開啟</string>
+
+    <!-- PowerShare QS tile -->
+    <string name="quick_settings_powershare_label">無線反向充電</string>
+    <string name="quick_settings_powershare_off_powersave_label">無線反向充電關閉\n省電模式</string>
+    <string name="quick_settings_powershare_off_low_battery_label">無線反向充電關閉\n電量太低</string>
+    <string name="quick_settings_powershare_enabled_label">無線反向充電已開啟</string>
+
 </resources>
